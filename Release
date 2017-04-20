@@ -1,9 +1,9 @@
-Origin: Raito32 Repo1
-Label: Raito32 Repo2
+Origin: Raito32
+Label: Raito32
 Suite: stable
 Version: 1.0
 Codename: Raito32
 Architectures: iphoneos-arm
 Components: main
-Description: Raito32 Repo3
+Description: Raito32
 MD5Sum:
