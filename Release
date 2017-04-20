@@ -1,0 +1,9 @@
+Origin: KeRn32 Repo
+Label: KeRn32 Repo
+Suite: stable
+Version: 1.0
+Codename: KeRn32
+Architectures: iphoneos-arm
+Components: main
+Description: KeRn32 Repo
+MD5Sum:
