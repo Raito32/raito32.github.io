@@ -3,10 +3,10 @@ Version: 1.11.0-1
 Architecture: iphoneos-arm
 Maintainer: iOSGods.com
 Filename: /debs/CSRR2C.deb
-Size: 181346
-MD5sum: 44b8b8f8acf33c663e0c822128f16c41
-SHA1: b77e3bfc04a1ff4c4961eac42b5a9be936fe197e
-SHA256: 62545346385d9379e94b0bbd5d895bbc3d0f9bf5363ee02b0f0206aa819fb3b7
+Size: 333512
+MD5sum: 28ec2b1af0f7d57e84f872931ca4c3df
+SHA1: 374fa1510542ee25dd2d86d3da9a0092cc3a22ba
+SHA256: c37e9828d69ef0306498e08b5fc98b3eed0dc65d83ef71f0a198ba77190d5c38
 Section: Tweak
 Description: CSR Racing 2 Cheats by KingKong for iOSGods.com!
 Author: KingKong
