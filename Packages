@@ -1,20 +1,5 @@
-Package: com.kk.csr2
-Version: 1.11.0-1
-Architecture: iphoneos-arm
-Maintainer: KeRn32
-Filename: /debs/CSRR2C.deb
-Size: 333512
-MD5sum: 28ec2b1af0f7d57e84f872931ca4c3df
-SHA1: 374fa1510542ee25dd2d86d3da9a0092cc3a22ba
-SHA256: c37e9828d69ef0306498e08b5fc98b3eed0dc65d83ef71f0a198ba77190d5c38
-Section: Tweak
-Description: CSR Racing 2 Cheats by KingKong for iOSGods.com!
-Author: KingKong
-Name: CSR Racing 2 Cheats
-Depends: mobilesubstrate, preferenceloader
-
 Package: com.unlimapps.uasharedtools
-Version: 2.1r-64K1
+Version: 2.1r-64
 Architecture: iphoneos-arm
 Maintainer: KeRn32
 Filename: /debs/com.yourepo.abo1bs.uasharedtoolsno-ads_2.1r-64k_iphoneos-arm.deb
