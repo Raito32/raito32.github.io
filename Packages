@@ -1,5 +1,5 @@
 Package: com.kk.csr2
-Version: 1.11.0-1+debug
+Version: 1.11.0-1
 Architecture: iphoneos-arm
 Maintainer: KeRn32 <no.mail@nomail4535.com>
 Filename: /debs/CSRR2C.deb
@@ -13,7 +13,7 @@ Author: KingKong <iOSGods.com>
 Name: CSR Racing 2 Cheats
 
 Package: com.unlimapps.uasharedtools
-Version: 2.1r-64K1
+Version: 2.1r-65
 Architecture: iphoneos-arm
 Maintainer: KeRn32 <no.mail@nomail4535.com>
 Filename: /debs/com.yourepo.abo1bs.uasharedtoolsno-ads_2.1r-64k_iphoneos-arm.deb
