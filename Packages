@@ -1,13 +1,29 @@
-Package: com.raito32.TEST
-Version: 1.0
+Package: com.kk.csr2
+Version: 1.11.0-1
 Architecture: iphoneos-arm
-Maintainer: Raito32
-Filename: /debs/TEST.deb
-Size: 7777
+Maintainer: KeRn32
+Filename: /debs/CSRR2C.deb
+Size: 333512
 MD5sum: 28ec2b1af0f7d57e84f872931ca4c3df
 SHA1: 374fa1510542ee25dd2d86d3da9a0092cc3a22ba
 SHA256: c37e9828d69ef0306498e08b5fc98b3eed0dc65d83ef71f0a198ba77190d5c38
 Section: Tweak
-Description: TEST (not work yet)
-Author: Raito32
-Name: Raito32 TEST
+Description: CSR Racing 2 Cheats by KingKong for iOSGods.com!
+Author: KingKong
+Name: CSR Racing 2 Cheats
+Depends: mobilesubstrate, preferenceloader
+
+Package: com.unlimapps.uasharedtools
+Version: 2.1r-64K1
+Architecture: iphoneos-arm
+Maintainer: KeRn32
+Filename: /debs/com.yourepo.abo1bs.uasharedtoolsno-ads_2.1r-64k_iphoneos-arm.deb
+Size: 16805376
+MD5sum: 7a2be1bcc4f1b81c4f356a69a35690f0
+SHA1: 713a9195099519d904144204135ee4ce332df708
+SHA256: 1cfacae97882372aa75fe827542180892e21751dd83dd2c9b737cdfe8d6d40c3
+Section: Tweak
+Description: shared tools for unlimapps tweaks Cracked
+Author: UnlimApps Inc
+Name: uasharedtools NO-ADs
+Depends: mobilesubstrate, firmware (>= 7.0)
